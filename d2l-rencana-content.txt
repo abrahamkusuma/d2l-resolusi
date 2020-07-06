@@ -4,7 +4,9 @@ RENCANA KONTEN D2L
 - Javascript
   * ES6
   * Framework Javascript
-- Struktur Data Dasar
+    ^ Angular
+    ^ React
 - PHP Framework
+    ^ Laravel
 - Interview
 - Vlog
