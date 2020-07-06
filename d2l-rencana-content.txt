@@ -4,7 +4,10 @@ RENCANA KONTEN D2L
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Vue
 - Struktur Data Dasar
 - PHP Framework
+    ^ Laravel
 - Interview
 - Vlog
+- Python
